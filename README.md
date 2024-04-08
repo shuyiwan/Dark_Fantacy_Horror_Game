@@ -1,3 +1,7 @@
-# Unity_CMPSC190I
+# Dark Fantacy Horror Puzzle Game - VR
 
-[Link](https://drive.google.com/file/d/1TGvtsC-XVCVsgRcvnElkz_2p95uYS3FS/view?usp=sharing)
+- An immersive VR game using Unity and C# that aloowed players to engafe with a dynamic enviorment.
+- Designed an implemented interactive features, enabling players to interact with in-game objects by shooting, grabbing, and manipulating items using intuitive VR controls.
+- Implemented multiple locomotion mechanics including teleporation and walking.
+
+[Check the Demo Video](https://drive.google.com/file/d/1TGvtsC-XVCVsgRcvnElkz_2p95uYS3FS/view?usp=sharing)
