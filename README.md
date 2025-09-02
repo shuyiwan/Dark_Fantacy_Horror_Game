@@ -1,6 +1,6 @@
 # Dark Fantacy Horror Puzzle Game - VR
 
-- An immersive VR game using Unity and C# that aloowed players to engafe with a dynamic enviorment.
+- An immersive VR game using Unity and C# that allowed players to engage with a dynamic enviorment.
 - Designed an implemented interactive features, enabling players to interact with in-game objects by shooting, grabbing, and manipulating items using intuitive VR controls.
 - Implemented multiple locomotion mechanics including teleporation and walking.
 
